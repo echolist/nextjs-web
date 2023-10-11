@@ -1,0 +1,14 @@
+.mainContainer {
+    display: flex;
+    gap: 100px;
+    
+}
+
+.container {
+    display: flex;
+    flex:1;
+    flex-direction: column;
+}
+.items {
+    margin-bottom: 20px;
+}
